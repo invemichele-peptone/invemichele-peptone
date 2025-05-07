@@ -1,5 +1,3 @@
-## Michele Invernizzi @Peptone
-
 This is my work account, you can find my private one here https://github.com/invemichele
 
 <!--
