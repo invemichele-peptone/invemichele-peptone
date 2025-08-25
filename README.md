@@ -1,4 +1,4 @@
-This is my work account, you can find my private one here https://github.com/invemichele
+This is my work account, you can find my personal one here https://github.com/invemichele
 
 <!--
 **invemichele-peptone/invemichele-peptone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
